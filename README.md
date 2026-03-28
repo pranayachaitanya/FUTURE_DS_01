@@ -58,8 +58,7 @@ This project focuses on analyzing **Superstore business sales performance** to i
 - **Discount policies** need optimization to prevent profit erosion.  
 - **Technology products** are growth drivers, while **Furniture** requires margin improvement.  
 - **Shipping optimization** could reduce costs and improve customer satisfaction.  
-
-This project demonstrates how **Power BI dashboards** can transform raw sales data into meaningful insights, enabling smarter business decisions.  
+  
 
 ---
 
